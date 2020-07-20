@@ -1,6 +1,6 @@
 # Stock Predictor
 Este es mi primer proyecto referente al Machine Learning! Creamos una Red Neuronal Recurrente la cual intenta predecir el valor de las acciones de la bolsa. 
-[Video del Código](https://www.youtube.com)
+[Video del Código](https://youtu.be/00MDTu9HhpQ)
 
 ---
 
