@@ -5,7 +5,7 @@ Este es mi primer proyecto referente al Machine Learning! Creamos una Red Neuron
 ---
 
 # Requirements
-Link para descargar el fichero .csv: https://www.nasdaq.com/api/v1/historical/AMZN/stocks/2010-07-12/2020-07-12
+Link para descargar el fichero .csv sin modificar: https://www.nasdaq.com/api/v1/historical/AMZN/stocks/2010-07-12/2020-07-12
 
 Comando para instalar las librerias: ``` pip install -r requirements.txt ```
 
